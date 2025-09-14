@@ -26,8 +26,6 @@ plugins:
   - with-pdf:
       output_path: pdf/programacion.pdf
       cover: true
-      cover_page: portada.md
       toc_title: "programacion"
       exclude_pages:
         - licencia.md
-        - index.m
