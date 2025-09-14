@@ -1,7 +1,3 @@
-¡Claro! Aquí tienes el contenido completo, final y corregido de la **Unidad 1**, organizado cronológicamente por semanas y sesiones, con las teorías ajustadas a 4 páginas y las prácticas expandidas para una carga de 3 horas.
-
-***
-
 # **Unidad 1: Fundamentos de la Programación en Java**
 
 ### **Duración estimada:** 24 horas (3 semanas)
